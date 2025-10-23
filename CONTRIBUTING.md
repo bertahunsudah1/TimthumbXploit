@@ -1,3 +1,1 @@
-# Contributing
-
-Thanks for contributing!
+# Contributing\nPlease read CONTRIBUTING.md\n
